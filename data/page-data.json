@@ -1,0 +1,132 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "yadavrohan7310@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:yadavrohan7310@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+917378567598",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+917378567598"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.mywebsite.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribbble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://dribbble.com"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/rohan-yadav-204b32357/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Full Stack Web Development Diploma (Certificate & Training) – 2025",
+        "description": "Completed hands-on training focused on modern frontend and backend development, covering real-world projects, APIs, and scalable web application architecture."
+      },
+      {
+        "title": "Bachelor of Science (Dairy Science) – Currently Pursuing",
+        "description": "Currently pursuing undergraduate studies at Dr. Babasaheb Ambedkar Marathwada University (BAMU), building strong analytical thinking and problem-solving skills."
+      },
+      {
+        "title": "ITI – Mechanical Diesel (Trade Certification) – 2021",
+        "description": "Completed technical trade certification with practical training in mechanical systems, diagnostics, and hands-on troubleshooting methodologies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "/images/home/education-skill/HTML.svg",
+        "rating": 5
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/home/education-skill/CSS.svg",
+        "rating": 5
+      },
+      {
+        "name": "JAVASCRIPT",
+        "icon": "/images/home/education-skill/JS.png",
+        "rating": 4
+      },
+      {
+        "name": "Vue.JS",
+        "icon": "/images/home/education-skill/vue.svg",
+        "rating": 4
+      },
+      {
+        "name": "TYPESCRIPT",
+        "icon": "/images/home/education-skill/TS.png",
+        "rating": 5
+      },
+      {
+        "name": "BOOTSTRAP",
+        "icon": "/images/home/education-skill/Bootstrap.svg",
+        "rating": 5
+      },
+      {
+        "name": "GRAPHQL",
+        "icon": "/images/home/education-skill/graphql.png",
+        "rating": 4
+      },
+      {
+        "name": "TAILWIND CSS",
+        "icon": "/images/home/education-skill/tailwindcss.png",
+        "rating": 4
+      },
+      {
+        "name": "MY SQL",
+        "icon": "/images/home/education-skill/sql.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/rohan-yadav-204b32357/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "yadavrohan7310@gmail.com",
+        "link": "mailto:yadavrohan7310@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+917378567598",
+        "link": "tel:+917378567598"
+      }
+    ]
+  }
+}

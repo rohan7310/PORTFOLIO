@@ -1,0 +1,24 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.png",
+      "title": "IndianMart Clone UI",
+      "client": "Personal Project",
+      "slug": "images/work/indianmart.html"
+    },
+    {
+      "image": "/images/work/work-img-2.png",
+      "title": "Car X",
+      "client": "Personal Project",
+      "slug": "images/work/Car.html"
+    },
+    {
+      "image": "/images/work/work-img-3.png",
+      "title": "MedCure+ Healthcare Platform",
+      "client": "Personal Project",
+      "slug": "medcure-healthcare",
+      "liveLink": "https://rohan7310.github.io/MEDCURE/",
+      "githubLink": "https://github.com/rohan7310/MEDCURE"
+    }
+  ]
+}
