@@ -12,7 +12,9 @@
       "image": "/images/work/work-img-2.png",
       "title": "Car X",
       "client": "Personal Project",
-      "slug": "images/work/Car.html"
+      "slug": "car-x",
+      "liveLink": "https://rohan7310.github.io/CarX/",
+      "githubLink": "https://github.com/rohan7310/CarX"
     },
     {
       "image": "/images/work/work-img-3.png",
