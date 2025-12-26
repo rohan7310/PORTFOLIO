@@ -1,6 +1,6 @@
 {
   "workData": [
-    {
+    
       {
   "image": "/images/work/work-img-1.png",
   "title": "IndianMart Clone UI",
@@ -8,7 +8,7 @@
   "slug": "indianmart-clone",
   "liveLink": "https://rohan7310.github.io/IndianMartClone/indianmart.html",
   "githubLink": "https://github.com/rohan7310/IndianMartClone"
-}
+
 
     },
     {
